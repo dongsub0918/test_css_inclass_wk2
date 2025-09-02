@@ -1,0 +1,19 @@
+* {
+  font-family: Tahoma;
+}
+
+h1 {
+  color: blue;
+  font-weight: 1000;
+  font-size: 3rem;
+}
+
+h2 {
+  background-color: aqua;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+p {
+  font-style: italic;
+}
